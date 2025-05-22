@@ -59,7 +59,7 @@ cd scripts
 ./build.sh 3.20
 ```
 
-This will generate a **static binary** that you can copy into **Alpine-based Docker containers**.
+This will generate a **static binary** under folder: `build` that you can copy into **Alpine-based Docker containers**.
 
 The output executable binary file name will be: alpireach\_\<alpine-image-version> , example: alpireach_3.20 , you can rename it, if needed.
 
